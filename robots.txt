@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oklsoe.csgad.com/rSV/sitemap.xml.gz
